@@ -6,7 +6,7 @@
 
 - Crie seu repositório no GitHub
 - Crie o arquivo: **db.json**
-- Pronto! Acesse seu servidor com esta url: [https://my-json-server.typicode.com/](https://my-json-server.typicode.com/)<your-username>/<your-repo>
+- Pronto! Acesse seu servidor com esta url: [https://my-json-server.typicode.com/](https://my-json-server.typicode.com/)your-username/your-repo
 
 Fonte: [https://my-json-server.typicode.com](https://my-json-server.typicode.com)
 
