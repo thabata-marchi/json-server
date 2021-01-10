@@ -1,0 +1,95 @@
+{
+  "users":
+  [ 
+    {
+      "name": "Thabata Marchi",
+      "cpf": "724.274.420-20",
+      "email": "tata@gmail.com",
+      "password": "asd1234@",
+      "passwordConfirm": "asd1234@",
+
+
+      "purchases": 
+      [
+        {
+          "code": "C2AFFA",
+          "value_purchase": 30.00,
+          "date_purchase": "04/01/2021",
+          "status": "Em validação"
+        },
+        {
+          "code": "987655",
+          "value_purchase": 120.00,
+          "date_purchase": "22/12/2020",
+          "status": "Aprovado"
+        }
+      ]    
+
+
+    },
+    {
+      "name": "Morganna Vieira",
+      "cpf": "500.619.860-54",
+      "email": "morgannaaa@gmail.com",
+      "password": "asd1234@",
+      "passwordConfirm": "asd1234@",
+
+      "purchases": 
+      [
+        {
+          "code": "DA4343",
+          "value_purchase": 19.90,
+          "date_purchase": "05/01/2021",
+          "status": "Em validação"
+        },
+        {
+          "code": "2345AA",
+          "value_purchase": 172.60,
+          "date_purchase": "27/12/2020",
+          "status": "Reprovado"
+        },
+        {
+          "code": "9876AD",
+          "value_purchase": 112.60,
+          "date_purchase": "18/10/2020",
+          "status": "Aprovado"
+        } 
+      ]    
+
+
+    },
+    {
+      "name": "Gustavo Assis de Oliveira",
+      "cpf": "753.271.790-95",
+      "email": "gustavo.assis@gmail.com",
+      "password": "qwe1234@",
+      "passwordConfirm": "qwe1234@",
+
+
+      "purchases": 
+      [
+        {
+          "code": "EA2478",
+          "value_purchase": 22.50,
+          "date_purchase": "29/12/2020",
+          "status": "Aprovado"
+        },
+        {
+          "code": "BB4576",
+          "value_purchase": 98.99,
+          "date_purchase": "10/12/2020",
+          "status": "Aprovado"
+        },
+        {
+          "code": "ADER07",
+          "value_purchase": 189.90,
+          "date_purchase": "15/09/2020",
+          "status": "Aprovado"
+        }
+
+      ]    
+
+    }
+
+  ]  
+}
